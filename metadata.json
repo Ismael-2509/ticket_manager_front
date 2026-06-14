@@ -1,0 +1,6 @@
+{
+  "name": "REPARA - 79",
+  "description": "Sistema de Gestión de Tickets de Mantenimiento",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
